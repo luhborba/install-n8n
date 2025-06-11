@@ -3,7 +3,7 @@
 Este repositório acompanha o vídeo publicado no canal da [Data Driven School](https://www.youtube.com/@datadrivenschool), onde mostramos como subir o N8N em um container Docker com persistência de dados local.
 
 📺 **Assista ao vídeo completo aqui:**  
-👉 [Do Zero ao Workflow: Subindo N8N com Docker em 5 Minutos](https://www.youtube.com/watch?v=LINK_DO_VIDEO)
+👉 [Do Zero ao Workflow: Subindo N8N com Docker em 5 Minutos](https://youtu.be/DoDuN-BARwA)
 
 ---
 
